@@ -7,7 +7,7 @@
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 60%
     right: 30%
 
 @keyframes float1
@@ -19,8 +19,23 @@
 .banner-principal .tarjeta
   background-position: left 50% !important
 
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+.banner-principal
+  .container.tarjeta
+    background-image: url("../assets/curso/portada/fondo-banner-principal.png")
+    background-size: 100% 100% !important
+    background-position: center
+    min-height: 520px
+    @media (max-width: $bp-max-md)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png") !important
+    @media (max-width: $bp-max-xs)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/imgbaner.png") !important
+
+.banner-interno__titulo__icono
+    background-color: #000
+    color: #000 !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
@@ -30,3 +45,108 @@
 
 figcaption
   font-weight: normal
+
+.tabs-a__tab
+  background-color: #FFEADE
+
+.tabs-c__tab
+  background-color: #FFEADE
+.tabs-c__tab--active
+  background-color: #FFF
+
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #EAEDDF
+
+.tarjeta.tarjeta--azul
+  background-color: #FFEADE
+
+.tarjeta.color-acento-botones--borde
+  border: 3px solid #F8F9F4
+
+.slyder-a__bullets__item
+  background-color: #FFE3C2
+
+.slyder-a__bullets__item.slyder-a__bullets__item--active
+  background-color: #FF945D
+
+.slyder-a__btn--atrs
+  background-color: #FF945D
+
+.slyder-a__btn--sigt
+  background-color: #FF945D
+
+.bg1
+  background-color: #FFF7ED
+
+.bg2
+  background-color: #EAEDDF
+
+.bg3
+  background-color: #FFE3C2
+
+.bg4
+  background-color: #E1C1B7
+
+.bg5
+  background-color: #F5EAE7
+
+.bg6
+  background-color: #FFFADE
+
+.linea-tiempo-d.color-acento-botones.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content
+      background-color: #EAEDDF !important 
+    .tarjeta.tarjeta--gris
+      background-color: #FF945D
+      span
+        color: $black
+  .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+    span
+      color: #000 !important
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FFEADE
+.tarjeta.tarjeta--gris
+  background-color: #FFEADE
+.linea-tiempo-d__item__number
+  span
+    color: #000
+
+.tarjeta tarjeta--slyder
+  background-color: #E1C1B7
+
+tarjeta--boton
+  background-color: #EAEDDF
+
+
+.BG01
+  background-image: url("../assets/curso/temas/fondos/imgfondoslayder.png")
+  background-repeat: no-repeat
+  background-position: center 100%
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BG02
+  background-image: url("../assets/curso/temas/fondos/difuminado.png")
+  background-repeat: no-repeat
+  background-position: center 100%
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BG03
+  background-image: url("../assets/curso/temas/fondos/difuminado2.png")
+  background-repeat: no-repeat
+  background-position: center 100%
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BG04
+  background-image: url("../assets/curso/temas/fondos/imgfondoslayderb.png")
+  background-repeat: no-repeat
+  background-position: center 100%
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
