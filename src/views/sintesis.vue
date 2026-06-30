@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual sobre implementación, seguimiento, análisis de indicadores y acciones de mejora de la estrategia entorno hogar saludable.")
+          img(src="@/assets/curso/sintesis.svg", alt="El mapa conceptual titulado “Implementación, seguimiento y mejora de la estrategia entorno hogar saludable” se desarrolla a través de seis ejes: implementación de acciones en el entorno hogar, seguimiento del plan de acción, indicadores en la estrategia, gestión de la información en salud, análisis y evaluación de indicadores, y acciones de mejora continua. El mapa permite comprender cómo la estrategia pasa de la ejecución de acciones al registro, análisis, evaluación y fortalecimiento de las intervenciones realizadas con las familias en el entorno hogar.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

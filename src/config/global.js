@@ -264,22 +264,22 @@
   referencias: [
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). Política de Atención Integral en Salud (PAIS). Bogotá, Colombia: MSPS.',
+        'Ministerio de Salud y Protección Social. (2016). <em>Política de Atención Integral en Salud (PAIS)</em>. Bogotá, Colombia: MSPS.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2018a). Modelo de Acción Integral Territorial (MAITE). Bogotá, Colombia: MSPS.',
+        'Ministerio de Salud y Protección Social. (2018a). <em>Modelo de Acción Integral Territorial (MAITE)</em>. Bogotá, Colombia: MSPS.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2018b). Resolución 3280 de 2018 por la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención en Salud (RIAS). Bogotá, Colombia: MSPS.',
+        'Ministerio de Salud y Protección Social. (2018b). <em>Resolución 3280 de 2018 por la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención en Salud (RIAS)</em>. Bogotá, Colombia: MSPS.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2015). Plan Decenal de Salud Pública 2012–2021. Bogotá, Colombia: MSPS.',
+        'Ministerio de Salud y Protección Social. (2015). <em>Plan Decenal de Salud Pública 2012–2021</em>. Bogotá, Colombia: MSPS.',
       link: '',
     },
   ],

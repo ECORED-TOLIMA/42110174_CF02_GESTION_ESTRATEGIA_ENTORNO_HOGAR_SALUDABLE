@@ -8,14 +8,28 @@
           i.fas.fa-info
       h1 Introducción
 
-    p
-      | La implementación de la estrategia de entorno hogar saludable se orienta a la ejecución organizada de las acciones definidas en el plan de acción, con el propósito de dar respuesta a las necesidades identificadas en el territorio. Este proceso implica el desarrollo de intervenciones en el entorno hogar, articuladas con el uso de herramientas de seguimiento, registro y análisis de la información.
-    p
-      | En este contexto, la implementación no se limita a la realización de actividades, sino que integra la gestión de la información, el uso de indicadores y la valoración de resultados, lo que permite orientar la toma de decisiones en salud de manera oportuna. Este enfoque favorece la coherencia entre las acciones ejecutadas y las condiciones del entorno, fortaleciendo la capacidad de respuesta frente a los riesgos en salud.
-    p
-      | En el marco de la Atención Primaria en Salud, estos procesos contribuyen a la gestión del riesgo y al mejoramiento de los resultados en salud de la población, en concordancia con los lineamientos del Ministerio de Salud y Protección Social (MSPS, 2016).
-    p
-      | El desarrollo de este componente fortalece las capacidades del aprendiz para ejecutar el plan de acción, utilizar instrumentos de seguimiento, analizar indicadores y definir acciones de mejora, consolidando un proceso de intervención estructurado y orientado a resultados en el entorno hogar.
+    p.mb-4 La implementación de la estrategia de entorno hogar saludable se orienta a la ejecución organizada de las acciones definidas en el plan de acción, con el propósito de dar respuesta a las necesidades identificadas en el territorio. Este proceso implica el desarrollo de intervenciones en el entorno hogar, articuladas con el uso de herramientas de seguimiento, registro y análisis de la información.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9.order-2.order-lg-1
+        p.mb-4 En este contexto, la implementación no se limita a la realización de actividades, sino que integra la gestión de la información, el uso de indicadores y la valoración de resultados, lo que permite orientar la toma de decisiones en salud de manera oportuna. Este enfoque favorece la coherencia entre las acciones ejecutadas y las condiciones del entorno, fortaleciendo la capacidad de respuesta frente a los riesgos en salud.
+        .tarjeta.bg1.p-4.mb-4
+          .row.justify-content-center
+            .col-lg-auto.d-none.d-lg-block
+              img(src='@/assets/curso/temas/intro/img1.svg', alt='')
+            .col-lg-10
+              p.mb-0 En el marco de la Atención Primaria en Salud, estos procesos contribuyen a la gestión del riesgo y al mejoramiento de los resultados en salud de la población, en concordancia con los lineamientos del Ministerio de Salud y Protección Social (MSPS, 2016).
+        .row.justify-content-center.align-items-center
+          .col-lg-4.col-8.mb-4.mb-lg-0
+            img(src='@/assets/curso/temas/intro/img3.svg', alt='')
+          .col-lg-8
+            p.mb-4 El desarrollo de este componente fortalece las capacidades del aprendiz para ejecutar el plan de acción, utilizar instrumentos de seguimiento, analizar indicadores y definir acciones de mejora, consolidando un proceso de intervención estructurado y orientado a resultados en el entorno hogar.
+            p.mb-0 El siguiente recurso audiovisual complementa los contenidos abordados y orienta su comprensión en el contexto de la intervención territorial:
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
+        img(src='@/assets/curso/temas/intro/img2.png', alt='')
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Leyenda del video
 </template>
 
 <script>

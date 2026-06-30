@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 65%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 60%
-    right: 30%
+    top: 40%
+    right: 10%
 
 @keyframes float1
   0%
@@ -92,7 +92,16 @@ figcaption
 
 .bg6
   background-color: #FFFADE
-
+.bg7
+  background-color:#FFF7ED
+.bg8
+  background-color:#FFFFFF
+.bg9
+  background-color:#FFEADE
+.cajon.color-secundario
+  background-color:#EAEDDF
+.tarjeta--boton.color-primario:active, .tarjeta--boton.color-primario:focus, .tarjeta--boton.color-primario:hover
+  background-color: #EAEDDF
 .linea-tiempo-d.color-acento-botones.especial
   .linea-tiempo-d__item--selected
     .linea-tiempo-d__item__content
@@ -145,8 +154,93 @@ tarjeta--boton
 
 .BG04
   background-image: url("../assets/curso/temas/fondos/imgfondoslayderb.png")
-  background-repeat: no-repeat
   background-position: center 100%
   margin-inline: -3.5rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+
+
+.lista-ol li, .lista-ol--cuadro li, .lista-ul li, .lista-ul--separador li, .lista-ul--color li 
+  display: flex
+
+.acordion__accion__btn--b
+  border: 1px solid #FF945D
+  background-color: #FF945D
+
+///// utilidades --------------------------------------
+.img65
+  width: 65px  
+.img90
+  width: 90px  
+.img250
+  width: 250px  
+.brd--rad
+  border-radius: 20px
+.hr--line
+  margin: 1rem 0
+  width: 100%
+  height: 1px  
+  background-color: #B0C0D2
+.b--rad
+  border-radius: 0px 0px 20px 20px 
+.bg--gradientBlue        
+  background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+
+//// Tarjetas --------------------------------------
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #FFEADE
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background-color: #E1C1B7
+      .bottomCircle
+        &::before
+          background-color: #9C3413
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #FF945D
+    border-radius: 999px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.img-infografica__item__dot:before, .img-infografica__item__dot:after, .img-infografica-b__item__dot:before, .img-infografica-b__item__dot:after
+  width: 150%
+  height: 150%
+
+.img-infografica.color-acento-botones .img-infografica__item__numero, .img-infografica-b.color-acento-botones .img-infografica__item__numero
+  font-size: 1.5em
+
+.img-infografica__item__numero, .img-infografica-b__item__numero
+  left: 73%
+  top: 80%
+
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto
+  color: black
