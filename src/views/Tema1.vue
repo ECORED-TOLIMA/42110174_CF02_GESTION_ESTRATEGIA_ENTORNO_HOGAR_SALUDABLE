@@ -49,8 +49,7 @@
               img(src='@/assets/curso/temas/tema1/img6.svg', alt='')
             .col-lg-10
               p.mb-0 En el contexto territorial, por ejemplo, la ejecución de actividades educativas sobre prácticas de higiene, acompañadas de seguimiento mediante herramientas de registro y articulación con actores locales, permite evidenciar cómo estos elementos operan de manera conjunta en la implementación de la estrategia.
-        p.mb-0 En el contexto territorial, por ejemplo, la ejecución de actividades educativas sobre prácticas de higiene, acompañadas de seguimiento mediante herramientas de registro y articulación con actores locales, permite evidenciar cómo estos elementos operan de manera conjunta en la implementación de la estrategia.
-    p.mb-0 A partir de este proceso, se genera información relevante para el seguimiento de las intervenciones y la medición de resultados, lo que permite avanzar hacia el análisis de la información y la toma de decisiones en salud.
+        p.mb-0 A partir de este proceso, se genera información relevante para el seguimiento de las intervenciones y la medición de resultados, lo que permite avanzar hacia el análisis de la información y la toma de decisiones en salud.
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.1 Ejecución del plan de acción
@@ -61,7 +60,7 @@
           p.mb-0 En este sentido, la ejecución no se limita a la realización de actividades, sino que requiere una organización clara de las acciones, la asignación de responsabilidades y el uso adecuado de herramientas que permitan su desarrollo y seguimiento. Esto facilita la implementación de intervenciones pertinentes y ajustadas a las condiciones del territorio.
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src='@/assets/curso/temas/tema1/img7.svg', alt='')
-    p.mb-0 Para garantizar una ejecución adecuada del plan de acción, es necesario considerar los siguientes momentos:
+    p.mb-4 Para garantizar una ejecución adecuada del plan de acción, es necesario considerar los siguientes momentos:
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10
         .titulo-sexto.color-acento-contenido

@@ -28,8 +28,8 @@
         img(src='@/assets/curso/temas/intro/img2.png', alt='')
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="1331" height="749" src="https://www.youtube.com/embed/6ZhLivrC4QE" title="Implementación seguimiento y mejora de la estrategia entorno hogar saludable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+
 </template>
 
 <script>

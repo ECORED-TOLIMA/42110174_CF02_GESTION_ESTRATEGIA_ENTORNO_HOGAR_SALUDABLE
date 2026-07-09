@@ -168,12 +168,11 @@
         .bg3.p-4
           .tarjeta.bg8.p-4
             TarjetaAudio.color-acento-botones.mb-3(
-              texto="Mom, can you come with me to the doctor's office?"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="Cada visita cuenta "
+              :audio="require('@/assets/curso/temas/tema2/podcast.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-            p.mb-0 Mamá, ¿puedes venir conmigo al consultorio del doctor?
     .row.justify-content-center
       .col-lg-4.col-8.mb-4.mb-lg-0
         img(src='@/assets/curso/temas/tema2/img11.png', alt='')

@@ -53,7 +53,7 @@
               p Corresponde a la aplicación de los resultados del análisis para orientar decisiones, ajustar actividades y fortalecer el seguimiento. Ejemplo: si los registros muestran bajo cumplimiento en prácticas de higiene, se programa una nueva orientación familiar y se coordina apoyo con actores del territorio.
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src='@/assets/curso/temas/tema4/img2.png', alt='')   
-    p.mb-4 corresponde a la aplicación de los resultados del análisis para orientar decisiones, ajustar actividades y fortalecer el seguimiento. Ejemplo: si los registros muestran bajo cumplimiento en prácticas de higiene, se programa una nueva orientación familiar y se coordina apoyo con actores del territorio.
+    p.mb-4 Corresponde a la aplicación de los resultados del análisis para orientar decisiones, ajustar actividades y fortalecer el seguimiento. Ejemplo: si los registros muestran bajo cumplimiento en prácticas de higiene, se programa una nueva orientación familiar y se coordina apoyo con actores del territorio.
     p.mb-4 Para facilitar la comprensión del proceso, la gestión de la información puede organizarse en una ruta sencilla:
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -125,7 +125,7 @@
             p.mb-4 Consiste en documentar los datos obtenidos durante la intervención para conservar evidencia y facilitar el seguimiento.
             p.mb-0 #[b Ejemplo:] anotar hallazgos de la visita en una planilla; registrar compromisos acordados con la familia sobre manejo de residuos, higiene o almacenamiento seguro del agua.
           .row(numero="6" titulo="Análisis inicial")
-            p.mb-4 permite revisar los datos recolectados para reconocer necesidades prioritarias y orientar acciones pertinentes
+            p.mb-4 Permite revisar los datos recolectados para reconocer necesidades prioritarias y orientar acciones pertinentes
             p.mb-0 #[b Ejemplo:] identificar que varias familias requieren educación sobre lavado de manos; reconocer que un sector necesita articulación con servicios públicos por dificultades de acceso al agua.
     .row.justify-content-center.mb-4
       .col-lg-9.order-2.order-lg-1

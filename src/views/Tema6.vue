@@ -121,7 +121,7 @@
               p.mb-0 #[b Ejemplo:] si existe una junta de acción comunal activa, un puesto de salud cercano o líderes comunitarios comprometidos, se puede articular una jornada educativa sobre higiene, autocuidado y manejo del entorno.
           .row(titulo="Acciones con mejores resultados")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 ayudan a identificar prácticas que pueden mantenerse, fortalecerse o adaptarse en otros hogares o territorios. Cuando una actividad evidencia cambios positivos, se convierte en referente para orientar nuevas decisiones y mejorar el acompañamiento.
+              p.mb-4 Ayudan a identificar prácticas que pueden mantenerse, fortalecerse o adaptarse en otros hogares o territorios. Cuando una actividad evidencia cambios positivos, se convierte en referente para orientar nuevas decisiones y mejorar el acompañamiento.
               p.mb-0 #[b Ejemplo:] si una estrategia de visitas familiares mejora la separación de residuos, el lavado de manos o el almacenamiento del agua, puede replicarse en sectores con necesidades similares.
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-4.mb-lg-0

@@ -207,7 +207,7 @@
                 .col-auto
                   .py-2.px-3
                     p.mb-0.text-center #[b Relación con las acciones realizadas]
-              p.text-center.mb-0 ayuda a identificar si las actividades desarrolladas contribuyeron al cambio esperado en el hogar. Esta relación permite revisar si una visita, una orientación educativa o un acuerdo familiar generaron avances reales en las prácticas de cuidado, o si es necesario reforzar el seguimiento con nuevas estrategias de acompañamiento.
+              p.text-center.mb-0 Ayuda a identificar si las actividades desarrolladas contribuyeron al cambio esperado en el hogar. Esta relación permite revisar si una visita, una orientación educativa o un acuerdo familiar generaron avances reales en las prácticas de cuidado, o si es necesario reforzar el seguimiento con nuevas estrategias de acompañamiento.
     p.mb-4 Estos aspectos permiten comprender mejor los resultados y tomar decisiones más adecuadas. Así, la información recogida durante el seguimiento se convierte en una guía para mejorar las acciones realizadas con las familias.
     p.mb-4 Cuando un indicador muestra que el 80 % de los hogares implementa prácticas saludables, este resultado debe analizarse con cuidado. Para comprenderlo mejor, se pueden revisar los siguientes puntos:
     .row.justify-content-center.mb-4
@@ -325,15 +325,15 @@
     .row.justify-content-center.mb-4
       .col-lg-7.order-2.order-lg-1
          LineaTiempoD.color-acento-botones.especial
-          p.text-small(numero="1" titulo="Priorizar intervenciones según las necesidades identificadas")
+          p(numero="1" titulo="Priorizar intervenciones según las necesidades identificadas")
             | Permite seleccionar las acciones más urgentes de acuerdo con los resultados obtenidos y las condiciones observadas en el territorio. En el entorno hogar, esta priorización ayuda a enfocar el acompañamiento en situaciones que afectan la salud, como manejo inadecuado de residuos, dificultades de acceso al agua o prácticas de higiene que requieren fortalecimiento.
-          p.text-small(numero="2" titulo="Ajustar actividades que no generan los resultados esperados")
+          p(numero="2" titulo="Ajustar actividades que no generan los resultados esperados")
             | Consiste en revisar las acciones desarrolladas cuando los indicadores muestran bajo cumplimiento o pocos avances. Este ajuste permite modificar la forma de orientar, acompañar o hacer seguimiento. En los hogares, puede implicar reforzar una actividad educativa, cambiar la estrategia de comunicación o programar una nueva visita de acompañamiento.
-          p.text-small(numero="3" titulo="Fortalecer acciones que evidencian impacto positivo")
+          p(numero="3" titulo="Fortalecer acciones que evidencian impacto positivo")
             | Permite mantener y ampliar las actividades que muestran buenos resultados en el seguimiento. Cuando una intervención favorece cambios en prácticas de autocuidado, higiene o manejo del entorno, se convierte en una experiencia útil para replicar en otros hogares o territorios con necesidades similares, respetando sus condiciones y dinámicas propias.
-          p.text-small(numero="4" titulo="Redirigir recursos hacia contextos con mayor necesidad")
+          p(numero="4" titulo="Redirigir recursos hacia contextos con mayor necesidad")
             | Implica orientar tiempo, talento humano, materiales educativos o apoyos institucionales hacia los hogares y territorios que presentan mayores dificultades. Esta acción permite responder con mayor pertinencia a situaciones de vulnerabilidad, bajo cumplimiento o riesgo identificado, evitando distribuir esfuerzos sin considerar las necesidades reales de la población intervenida.
-          p.text-small(numero="5" titulo="Definir acciones de mejora continua")
+          p(numero="5" titulo="Definir acciones de mejora continua")
             | Consiste en establecer nuevas decisiones a partir de los resultados analizados, con el fin de fortalecer la intervención. Estas acciones permiten corregir dificultades, mantener avances y mejorar el acompañamiento. En el entorno hogar, pueden incluir nuevos acuerdos familiares, seguimiento adicional o articulación con actores del territorio.
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src='@/assets/curso/temas/tema5/img24.png', alt='')

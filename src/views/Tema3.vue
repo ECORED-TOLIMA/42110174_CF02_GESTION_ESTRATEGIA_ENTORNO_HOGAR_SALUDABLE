@@ -234,7 +234,7 @@
                 .col-auto
                   .py-2.px-3
                     p.mb-0.text-center #[b Definir acciones de mejora]
-              p.text-center.mb-0 permite establecer decisiones orientadas a fortalecer las condiciones de salud en el entorno hogar.
+              p.text-center.mb-0 Permite establecer decisiones orientadas a fortalecer las condiciones de salud en el entorno hogar.
     p.mb-4 La lectura organizada de los indicadores fortalece la toma de decisiones, porque permite actuar con base en información clara y no solo en apreciaciones generales. De esta manera, se favorece una intervención más pertinente, verificable y ajustada a las necesidades de las familias colombianas.
     p.mb-4 Para comprender cómo los indicadores orientan la toma de decisiones, se presenta un recurso interactivo que relaciona los niveles de cumplimiento con las acciones que pueden desarrollarse durante el seguimiento de las intervenciones en el entorno hogar:
     .row.justify-content-center.align-items-center.mb-4
