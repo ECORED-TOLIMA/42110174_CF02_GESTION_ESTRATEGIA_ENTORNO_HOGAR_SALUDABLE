@@ -39,7 +39,7 @@ export default {
             { id: 'd', texto: 'Elaborar informes.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. La implementación permite llevar a la práctica las acciones definidas en el plan de acción.',
+            'La implementación permite llevar a la práctica las acciones definidas en el plan de acción.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -59,7 +59,7 @@ export default {
             { id: 'd', texto: 'Crear nuevos indicadores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. El seguimiento permite controlar y verificar el desarrollo de las intervenciones.',
+            'El seguimiento permite controlar y verificar el desarrollo de las intervenciones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -75,7 +75,7 @@ export default {
             { id: 'd', texto: 'Registrar actividades.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. Los indicadores permiten medir el desempeño de las intervenciones.',
+            'Los indicadores permiten medir el desempeño de las intervenciones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -91,7 +91,7 @@ export default {
             { id: 'd', texto: 'Resultado.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. Los indicadores de proceso evalúan la ejecución de actividades.',
+            'Los indicadores de proceso evalúan la ejecución de actividades.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -111,7 +111,7 @@ export default {
             { id: 'd', texto: 'Diseñar el plan.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. La recolección permite obtener datos sobre condiciones y acciones.',
+            'La recolección permite obtener datos sobre condiciones y acciones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -131,7 +131,7 @@ export default {
             { id: 'd', texto: 'Analizar indicadores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. Las planillas permiten organizar y evidenciar la información.',
+            'Las planillas permiten organizar y evidenciar la información.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -147,7 +147,7 @@ export default {
             { id: 'd', texto: 'Guardar datos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. La sistematización permite organizar la información para su análisis.',
+            'La sistematización permite organizar la información para su análisis.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -163,7 +163,7 @@ export default {
             { id: 'd', texto: 'Complejidad.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. La exactitud garantiza que los datos reflejen la realidad.',
+            'La exactitud garantiza que los datos reflejen la realidad.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -179,7 +179,7 @@ export default {
             { id: 'd', texto: 'Diagnóstico.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. El cálculo requiere variables claras y una fórmula definida.',
+            'El cálculo requiere variables claras y una fórmula definida.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -199,7 +199,7 @@ export default {
             { id: 'd', texto: 'Registrar datos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. Interpretar permite comprender el significado de los resultados.',
+            'Interpretar permite comprender el significado de los resultados.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -219,7 +219,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Permite interpretar resultados según el contexto del territorio.',
+            'Permite interpretar resultados según el contexto del territorio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -234,8 +234,7 @@ export default {
             { id: 'c', texto: 'Registrar información.', esCorrecta: false },
             { id: 'd', texto: 'Tomar decisiones.', esCorrecta: true },
           ],
-          mensaje_correcto:
-            'Correcto. Los resultados orientan la toma de decisiones.',
+          mensaje_correcto: 'Los resultados orientan la toma de decisiones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -251,7 +250,7 @@ export default {
             { id: 'd', texto: 'Indicadores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. El plan de seguimiento organiza el control de las acciones.',
+            'El plan de seguimiento organiza el control de las acciones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -271,7 +270,7 @@ export default {
             { id: 'd', texto: 'Crear estrategias.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. Permite valorar el impacto de las acciones realizadas.',
+            'Permite valorar el impacto de las acciones realizadas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -290,8 +289,7 @@ export default {
             { id: 'c', texto: 'Registrar actividades.', esCorrecta: false },
             { id: 'd', texto: 'Crear indicadores.', esCorrecta: false },
           ],
-          mensaje_correcto:
-            'Correcto. Evalúa el logro de objetivos y resultados.',
+          mensaje_correcto: 'Evalúa el logro de objetivos y resultados.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -307,7 +305,7 @@ export default {
             { id: 'd', texto: 'Indicadores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. Permite identificar aspectos a mejorar o fortalecer.',
+            'Permite identificar aspectos a mejorar o fortalecer.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -326,8 +324,7 @@ export default {
             },
             { id: 'd', texto: 'Analizar datos.', esCorrecta: false },
           ],
-          mensaje_correcto:
-            'Correcto. Se definen acciones para mejorar el proceso.',
+          mensaje_correcto: 'Se definen acciones para mejorar el proceso.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -342,8 +339,7 @@ export default {
             { id: 'c', texto: 'Diseñar estrategias.', esCorrecta: false },
             { id: 'd', texto: 'Eliminar actividades.', esCorrecta: false },
           ],
-          mensaje_correcto:
-            'Correcto. Permite actualizar el plan según los resultados.',
+          mensaje_correcto: 'Permite actualizar el plan según los resultados.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -362,8 +358,7 @@ export default {
             },
             { id: 'd', texto: 'Separar actividades.', esCorrecta: false },
           ],
-          mensaje_correcto:
-            'Correcto. Permite un proceso continuo y coherente.',
+          mensaje_correcto: 'Permite un proceso continuo y coherente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -383,8 +378,7 @@ export default {
             },
             { id: 'd', texto: 'Registrar datos.', esCorrecta: false },
           ],
-          mensaje_correcto:
-            'Correcto. La información permite decisiones fundamentadas.',
+          mensaje_correcto: 'La información permite decisiones fundamentadas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

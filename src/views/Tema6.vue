@@ -17,43 +17,43 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema6/img2.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema6/img2.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Ajuste de actividades que no generan los resultados esperados]
+                    p.text-center.mb-0 #[b Ajuste de actividades que no generan los resultados esperados]
               p.text-center.mb-0 Permite revisar las acciones que presentan bajo cumplimiento o poco avance. Este ajuste ayuda a modificar estrategias educativas, tiempos de seguimiento o formas de acompañamiento, de acuerdo con las dificultades identificadas en los hogares y con las condiciones del territorio.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema6/img3.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema6/img3.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Fortalecimiento de acciones con impacto positivo]
+                    p.text-center.mb-0 #[b Fortalecimiento de acciones con impacto positivo]
               p.text-center.mb-0 Consiste en mantener y ampliar las actividades que han mostrado resultados favorables. Cuando una acción mejora prácticas de higiene, cuidado del agua o manejo del entorno, puede reforzarse para consolidar los avances y orientar experiencias similares en otros hogares.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema6/img4.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema6/img4.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Priorización de necesidades identificadas]
+                    p.text-center.mb-0 #[b Priorización de necesidades identificadas]
               p.text-center.mb-0 Permite ordenar las situaciones que requieren atención según su nivel de importancia, urgencia e impacto en la salud. Esta priorización ayuda a concentrar esfuerzos en los hogares o territorios donde existen mayores riesgos, limitaciones o necesidades de acompañamiento.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema6/img5.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema6/img5.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Implementación de nuevas estrategias de intervención]
+                    p.text-center.mb-0 #[b Implementación de nuevas estrategias de intervención]
               p.text-center.mb-0 Consiste en definir acciones diferentes cuando los resultados muestran que las actividades iniciales no fueron suficientes. Estas estrategias pueden incluir nuevas orientaciones, acuerdos familiares, visitas adicionales o articulación con actores comunitarios e institucionales del territorio.
     p.mb-4 La definición de estas acciones permite dar continuidad al proceso de intervención y evitar que los resultados del seguimiento queden solo como información registrada. De esta manera, los hallazgos se transforman en decisiones concretas que fortalecen la calidad, pertinencia y sostenibilidad de las acciones en salud.
     .row.justify-content-center.mb-4
@@ -185,7 +185,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema6/img10.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema6/img10.svg', alt='')
 
           h5.text-center Revisión de actividades
           p.mb-5 Permite identificar cuáles acciones se cumplieron, cuáles quedaron incompletas y cuáles no generaron los resultados esperados. Esta revisión ayuda a tomar decisiones sobre continuidad, modificación o reemplazo de actividades dentro del proceso de intervención.
@@ -194,7 +194,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema6/img11.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema6/img11.svg', alt='')
 
           h5.text-center Actualización de responsabilidades
           p.mb-5 Consiste en precisar quién debe desarrollar, apoyar o hacer seguimiento a cada acción. Esta claridad evita duplicidad de tareas y facilita la coordinación entre equipos de salud, actores comunitarios, instituciones y familias.
@@ -203,7 +203,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema6/img12.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema6/img12.svg', alt='')
 
           h5.text-center Redistribución de recursos
           p.mb-5 Permite orientar tiempo, materiales, talento humano o apoyos institucionales hacia las necesidades más importantes. Esta redistribución favorece una respuesta más pertinente, especialmente en hogares o territorios con mayores barreras de acceso o condiciones de vulnerabilidad.
@@ -212,7 +212,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema6/img13.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema6/img13.svg', alt='')
 
           h5.text-center Definición de nuevos acuerdos
           p.mb-5 Implica establecer compromisos actualizados con las familias o actores del territorio. Estos acuerdos permiten adaptar la intervención a nuevas necesidades, reforzar prácticas saludables y mantener la participación durante el proceso de mejora.
@@ -230,7 +230,7 @@
         img(src='@/assets/curso/temas/tema6/img14.svg', alt='')
       .col-lg-8
         p.mb-4 La integración del proceso de intervención en el entorno hogar permite articular de manera coherente las diferentes fases desarrolladas, desde la implementación de las acciones hasta el seguimiento, la evaluación y la mejora continua. Este enfoque garantiza que las intervenciones no se ejecuten de forma aislada, sino como parte de un proceso estructurado orientado a resultados.
-        p.mb-0 A lo largo del proceso, cada fase cumple una función específica, la implementación materializa las acciones, el seguimiento permite verificar su desarrollo, la evaluación valora los resultados obtenidos y la mejora continua orienta los ajustes necesarios. La integración de estos elementos permite consolidar una intervención dinámica, adaptable y centrada en las necesidades de la población.
+        p.mb-0 A lo largo del proceso, cada fase cumple una función específica: la implementación materializa las acciones, el seguimiento permite verificar su desarrollo, la evaluación valora los resultados obtenidos y la mejora continua orienta los ajustes necesarios. La integración de estos elementos permite consolidar una intervención dinámica, adaptable y centrada en las necesidades de la población.
     p.mb-4 En el contexto territorial, esta integración facilita que la información recolectada, los indicadores y las decisiones operativas se relacionen de manera clara. Así, la intervención puede adaptarse a las condiciones cambiantes del hogar, mantener su pertinencia y mejorar progresivamente sus resultados.
     p.mb-4 Para comprender esta integración, se pueden reconocer los siguientes componentes:
     .tarjeta--container.row.mb-4
@@ -238,7 +238,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema6/img15.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/img15.svg', alt='')
           
         h5.text-center Entradas del proceso
         p Corresponden a la información inicial que permite orientar la intervención, como la caracterización del hogar, el plan de acción, los indicadores y los registros de seguimiento. Estos elementos ayudan a conocer las condiciones reales de la familia y del territorio antes de tomar decisiones.
@@ -247,7 +247,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema6/img16.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/img16.svg', alt='')
           
         h5.text-center Desarrollo del proceso
         p Integra la implementación de las acciones, el seguimiento de los avances, la evaluación de los resultados y la definición de ajustes. Este componente permite revisar si lo planeado se está cumpliendo y si las actividades responden a las necesidades identificadas.
@@ -256,7 +256,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema6/img17.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/img17.svg', alt='')
           
         h5.text-center Resultados esperados
         p Representan los cambios que se buscan lograr con la intervención, de acuerdo con las necesidades del hogar y las metas definidas. Pueden relacionarse con mejores prácticas de higiene, almacenamiento seguro del agua, reducción de riesgos o mayor participación familiar.
@@ -267,7 +267,7 @@
       .col-lg-8
         p.mb-4 La articulación de estos componentes permite comprender que la intervención no se desarrolla en momentos aislados, sino como un proceso organizado. Cada fase aporta información útil para tomar decisiones, ajustar las acciones y fortalecer el acompañamiento a los hogares y territorios que requieren mayor atención.
         .p-4.tarjeta.bg2
-          p.mb-0 La integración del proceso permite conectar la información recolectada, las acciones realizadas y los resultados obtenidos, con el fin de orientar intervenciones más coherentes y ajustadas a las necesidades del territorio. De esta manera, cada fase cumple una función dentro del proceso, la implementación desarrolla las acciones, el seguimiento verifica los avances, la evaluación valora los resultados y la mejora define los ajustes necesarios.
+          p.mb-0 La integración del proceso permite conectar la información recolectada, las acciones realizadas y los resultados obtenidos, con el fin de orientar intervenciones más coherentes y ajustadas a las necesidades del territorio. De esta manera, cada fase cumple una función dentro del proceso: la implementación desarrolla las acciones, el seguimiento verifica los avances, la evaluación valora los resultados y la mejora define los ajustes necesarios.
     p.mb-0 Así, la intervención se consolida como un proceso organizado y continuo, en el que los resultados no quedan solo como datos registrados, sino que se convierten en una base para tomar decisiones. Esta articulación fortalece la respuesta institucional y comunitaria, mejora la pertinencia de las acciones y contribuye al bienestar de los hogares acompañados.          
 </template>
 

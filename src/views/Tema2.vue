@@ -60,7 +60,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img4.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img4.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -70,7 +70,7 @@
               p.text-center.mb-0 Identifica las actividades acordadas que requieren seguimiento durante la intervención.
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img5.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img5.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -81,7 +81,7 @@
           
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img6.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img6.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -103,7 +103,7 @@
           .row(numero="4" titulo="Revisión de avances")
             p.mb-4 Permite identificar logros parciales, dificultades persistentes y nuevas situaciones que requieren atención. Este análisis ayuda a valorar si la intervención mantiene coherencia con lo planeado y si contribuye al mejoramiento del entorno hogar.
           .row(numero="5" titulo="Control de la información")
-            p.mb-4 Parantiza que los datos registrados sean claros, completos y útiles para tomar decisiones. Este aspecto fortalece la trazabilidad del proceso y permite sustentar ajustes, recomendaciones o acciones de mejora durante la intervención.
+            p.mb-4 Garantiza que los datos registrados sean claros, completos y útiles para tomar decisiones. Este aspecto fortalece la trazabilidad del proceso y permite sustentar ajustes, recomendaciones o acciones de mejora durante la intervención.
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src='@/assets/curso/temas/tema2/img7.png', alt='')
     .row.justify-content-center.mb-4
@@ -207,47 +207,46 @@
           span Ejemplo de planilla de seguimiento de intervenciones en el entorno hogar
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
-        .tabla-a.color-acento-contenido 
-          .tabla-a.color-acento-contenido
-            table
-              thead
-                tr
-                  th Fecha
-                  th Actividad programada
-                  th Actividad ejecutada
-                  th Nivel de cumplimiento (%)
-                  th Resultado observado
-                  th Dificultades identificadas
-                  th Acción de ajuste
-                  th Responsable
-              tbody
-                tr(style="background-color:#F6F6F6")
-                  th 05/07/2026
-                  td Orientar sobre lavado de manos y manejo seguro del agua.
-                  td Se realizó visita domiciliaria con la madre y dos hijos.
-                  td 90 %
-                  td La familia empezó a hervir el agua para consumo.
-                  td No cuenta con recipiente con tapa.
-                  td Recomendar recipiente limpio con tapa y verificar su uso.
-                  td Promotor de salud.
-                tr
-                  th 12/07/2026
-                  td Verificar el almacenamiento seguro del agua.
-                  td Se revisó el recipiente utilizado en el hogar.
-                  td 80 %
-                  td El agua se almacena en recipiente limpio.
-                  td El recipiente permanece destapado en algunos momentos.
-                  td Reforzar la orientación y acordar el uso permanente de tapa.
-                  td Promotor de salud.
-                tr(style="background-color:#F6F6F6")
-                  th 20/07/2026
-                  td Orientar sobre separación de residuos y limpieza del entorno.
-                  td Se desarrolló actividad educativa con la familia.
-                  td 85 %
-                  td Se evidenció mejor orden en el área de cocina.
-                  td Se mezclan residuos orgánicos y plásticos.
-                  td Explicar nuevamente la clasificación y dejar recomendación escrita.
-                  td Auxiliar de intervención.
+        .tabla-a.color-acento-contenido.tabla-seguimiento
+          table
+            thead
+              tr
+                th Fecha
+                th Actividad programada
+                th Actividad ejecutada
+                th Nivel de cumplimiento (%)
+                th Resultado observado
+                th Dificultades identificadas
+                th Acción de ajuste
+                th Responsable
+            tbody
+              tr(style="background-color:#F6F6F6")
+                th 05/07/2026
+                td Orientar sobre lavado de manos y manejo seguro del agua.
+                td Se realizó visita domiciliaria con la madre y dos hijos.
+                td 90 %
+                td La familia empezó a hervir el agua para consumo.
+                td No cuenta con recipiente con tapa.
+                td Recomendar recipiente limpio con tapa y verificar su uso.
+                td Promotor de salud.
+              tr
+                th 12/07/2026
+                td Verificar el almacenamiento seguro del agua.
+                td Se revisó el recipiente utilizado en el hogar.
+                td 80 %
+                td El agua se almacena en recipiente limpio.
+                td El recipiente permanece destapado en algunos momentos.
+                td Reforzar la orientación y acordar el uso permanente de tapa.
+                td Promotor de salud.
+              tr(style="background-color:#F6F6F6")
+                th 20/07/2026
+                td Orientar sobre separación de residuos y limpieza del entorno.
+                td Se desarrolló actividad educativa con la familia.
+                td 85 %
+                td Se evidenció mejor orden en el área de cocina.
+                td Se mezclan residuos orgánicos y plásticos.
+                td Explicar nuevamente la clasificación y dejar recomendación escrita.
+                td Auxiliar de intervención.
     p.mb-4 La planilla permite comparar lo programado con lo ejecutado, reconocer avances y registrar dificultades que requieren atención. Además, facilita definir acciones de ajuste y asignar responsables para dar continuidad al seguimiento. De esta manera, el registro se convierte en un apoyo práctico para tomar decisiones oportunas durante la intervención en el entorno hogar.
     p.mb-4 Para garantizar la calidad del registro en las planillas de seguimiento, es necesario aplicar criterios que permitan consignar información clara, completa y útil. Estos criterios ayudan a evitar confusiones, facilitar el análisis posterior y orientar decisiones durante la intervención en el entorno hogar:
     .row.justify-content-center.mb-4
@@ -307,31 +306,31 @@
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema2/img18.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img18.svg' alt='')
         h5.text-center Registrar información clara y precisa
         p.text-center Consiste en documentar datos completos, verificables y comprensibles sobre la intervención realizada, incluyendo fecha, actividad, participantes y resultado observado. En el contexto colombiano, permite dejar evidencia clara del acompañamiento hecho a la familia y facilita su seguimiento posterior territorial organizado.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema2/img19.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img19.svg' alt='')
         h5.text-center Evitar ambigüedades en la descripción
         p.text-center Implica describir hechos concretos y observables, sin expresiones generales que dificulten la comprensión del proceso. En hogares colombianos, ayuda a precisar situaciones como almacenamiento inadecuado de agua, presencia de residuos o cambios en prácticas de higiene durante la intervención domiciliaria.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema2/img20.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img20.svg' alt='')
         h5.text-center Mantener coherencia entre lo observado y lo consignado
         p.text-center Consiste en revisar que los datos escritos correspondan con los hallazgos observados durante la visita. En el contexto colombiano, evita contradicciones entre lo visto en el hogar, lo acordado con sus integrantes y lo reportado para la toma de decisiones.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema2/img21.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img21.svg' alt='')
         h5.text-center Actualizar la información de manera oportuna
         p.text-center Significa incorporar oportunamente cambios, avances o nuevas necesidades identificadas durante el seguimiento. En hogares colombianos, permite reconocer si las recomendaciones se mantienen, si aparecen nuevos riesgos o si se requieren apoyos adicionales de actores comunitarios, institucionales o sectoriales del territorio.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema2/img22.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img22.svg' alt='')
         h5.text-center Garantizar la confidencialidad de los datos
         p.text-center Consiste en proteger la información personal, familiar y territorial registrada durante la intervención. En Colombia, este criterio exige manejar los datos con reserva, evitar divulgaciones innecesarias y usar la información solo para fines de seguimiento, orientación y mejoramiento del proceso.
     .row.justify-content-center

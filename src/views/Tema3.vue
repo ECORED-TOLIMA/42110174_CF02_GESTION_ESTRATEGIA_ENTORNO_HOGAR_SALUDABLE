@@ -22,7 +22,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img3.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -32,7 +32,7 @@
               p.text-center.mb-0 Mide el desarrollo de las actividades ejecutadas, verificando cantidad, oportunidad y cumplimiento de acciones programadas en el entorno hogar colombiano.
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img4.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -42,7 +42,7 @@
               p.text-center.mb-0 Valora cambios generados en la población, como prácticas de higiene, autocuidado y adopción de hábitos saludables en las familias colombianas.
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img5.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -197,7 +197,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img11.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -207,7 +207,7 @@
               p.text-center.mb-0 Permite revisar los datos obtenidos durante el seguimiento y comprender el avance de las intervenciones.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img12.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img12.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -217,7 +217,7 @@
               p.text-center.mb-0 Favorece el uso de evidencias verificables para orientar ajustes y mejoras.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img13.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img13.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -227,7 +227,7 @@
               p.text-center.mb-0 Ayuda a identificar avances, dificultades o situaciones que se repiten en las familias acompañadas.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img14.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img14.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -243,7 +243,7 @@
           ImagenInfografica.color-acento-botones.mb-5
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema3/img15.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img15.svg', alt='')
             .tarjeta.color-acento-botones.p-3(x="29.7%" y="51%" numero="+")
               p Las acciones están generando resultados positivos. Se recomienda mantener las intervenciones, fortalecer las prácticas que funcionan y continuar el seguimiento para conservar los avances logrados con las familias.
             .tarjeta.color-acento-botones.p-3(x="50%" y="51%" numero="+")

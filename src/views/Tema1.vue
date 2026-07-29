@@ -8,7 +8,7 @@
       h1 Implementación de acciones en el entorno hogar
     .row.justify-content-center.mb-4
       .col-lg-9.order-2.order-lg-1
-        p.mb-4 La implementación de acciones en el entorno hogar corresponde a la fase operativa en la cual se ejecutan las actividades definidas en el plan de acción, orientadas a dar respuesta a las necesidades identificadas en el territorio. Este proceso implica la aplicación organizada de intervenciones en el contexto real de las familias, garantizando coherencia con los objetivos establecidos y las condiciones del entorno.
+        p.mb-4 La implementación de acciones en el entorno hogar corresponde a la fase operativa, en la cual se ejecutan las actividades definidas en el plan de acción, orientadas a dar respuesta a las necesidades identificadas en el territorio. Este proceso implica la aplicación organizada de intervenciones en el contexto real de las familias, garantizando coherencia con los objetivos establecidos y las condiciones del entorno.
         .p-4.tarjeta.bg2
           .row.justify-content-center
             .col-lg-auto.d-none.d-lg-block
@@ -136,7 +136,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema1/img11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img11.svg', alt='')
           
         h5.text-center Nivel individual
         p Orienta acciones directas hacia cada persona, promoviendo el autocuidado, el reconocimiento de factores de riesgo y el manejo de condiciones específicas de salud. Su propósito es fortalecer las capacidades personales para la toma de decisiones informadas en el cuidado de la salud.
@@ -144,7 +144,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema1/img12.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img12.svg', alt='')
           
         h5.text-center Nivel familiar
         p Aborda las dinámicas del hogar en su conjunto, fortaleciendo prácticas colectivas de cuidado, relaciones familiares y hábitos que inciden en el bienestar de todos los integrantes. Este nivel reconoce a la familia como unidad fundamental de intervención en el entorno hogar.
@@ -152,7 +152,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema1/img13.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img13.svg', alt='')
           
         h5.text-center Nivel colectivo
         p Dirige las acciones hacia grupos poblacionales más amplios, mediante estrategias comunitarias que buscan impactar las condiciones de salud de manera conjunta. Favorece la participación activa de la comunidad y el fortalecimiento de redes de apoyo en el territorio.
@@ -161,7 +161,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img14.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img14.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -171,7 +171,7 @@
               p.text-center.mb-0 Se brindan recomendaciones claras para fortalecer hábitos de autocuidado, como higiene personal, alimentación saludable, actividad física y asistencia a controles preventivos.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")  
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img15.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img15.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -181,7 +181,7 @@
               p.text-center.mb-0 Se promueve la participación del grupo familiar en acciones cotidianas de cuidado, como organizar horarios, apoyar rutinas saludables y acompañar a quienes requieren mayor atención.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")  
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img16.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img16.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -191,7 +191,7 @@
               p.text-center.mb-0 Se vincula a la familia con actividades del territorio, como jornadas educativas, encuentros comunitarios o acciones colectivas orientadas a la prevención de riesgos.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")  
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img17.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img17.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -313,13 +313,13 @@
             .col-lg-6.order-2.order-lg-1
               p #[b Sector salud:] instituciones prestadoras de servicios, equipos de atención primaria y programas de salud pública que orientan, complementan y dan continuidad a las intervenciones realizadas en el entorno hogar, en coherencia con los lineamientos del Ministerio de Salud y Protección Social.
               p #[b Ejemplos:] 
-              p.mb-0 - Una institución prestadora de servicios de salud orienta a la familia sobre controles preventivos y rutas de atención.Un equipo de atención primaria realiza seguimiento a familias con riesgos identificados en la vivienda. 
+              p.mb-0 - Una institución prestadora de servicios de salud orienta a la familia sobre controles preventivos y rutas de atención. Un equipo de atención primaria realiza seguimiento a familias con riesgos identificados en la vivienda. 
               p.mb-0 - Una institución prestadora de servicios de salud orienta a la familia sobre controles preventivos y rutas de atención.
             .col-lg-6.col-8.mb-4.mb-lg-0.order-1.order-lg-2
               img(src='@/assets/curso/temas/tema1/img26.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-6.order-2.order-lg-1
-              p #[b Sector educativo:] instituciones educativas y docentes que refuerzan los mensajes de salud desde el entorno escolar, favoreciendo la apropiación de prácticas saludables en niñas, niños y jóvenes, y promoviendo su transferencia al contexto familiar. 
+              p #[b Sector educativo:] instituciones educativas y docentes que refuercen los mensajes de salud desde el entorno escolar, favoreciendo la apropiación de prácticas saludables en niñas, niños y jóvenes, y promoviendo su transferencia al contexto familiar. 
               p #[b Ejemplos:] 
               p.mb-0 - Una institución educativa desarrolla una jornada sobre lavado de manos y cuidado del agua. 
               p.mb-0 - Un docente promueve actividades sobre alimentación saludable para que los estudiantes compartan lo aprendido en sus hogares.

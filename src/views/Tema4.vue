@@ -157,7 +157,7 @@
                   img(src='@/assets/curso/temas/tema4/img9.svg', alt='')
                 .col-lg-8.col-9
                   h5 Tipo de intervención
-                  p.mb-0 Clasifica la acción realizada, como visita, orientación, seguimiento o actividad educativa.
+                  p.mb-0 Clasifica la acción realizada como visita, orientación, seguimiento o actividad educativa.
           .col-lg-6
             .p-4.tarjeta.bg3.h-100
               .row.justify-content-center

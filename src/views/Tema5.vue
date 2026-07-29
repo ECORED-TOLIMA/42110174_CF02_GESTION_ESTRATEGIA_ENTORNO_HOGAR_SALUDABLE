@@ -51,7 +51,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img4.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img4.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -61,7 +61,7 @@
               p.text-center.mb-0 Permite comprender el proceso completo de intervención, desde los datos registrados hasta los resultados obtenidos.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img5.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img5.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -71,7 +71,7 @@
               p.text-center.mb-0 Facilita interpretar si las acciones desarrolladas responden a los objetivos y metas establecidas.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img6.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img6.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -81,7 +81,7 @@
               p.text-center.mb-0 Ayuda a definir ajustes oportunos con base en información clara, organizada y verificable.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img7.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img7.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -170,7 +170,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img11.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img11.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -180,7 +180,7 @@
               p.text-center.mb-0 Permite revisar si el resultado alcanzado corresponde a lo que se esperaba lograr en la intervención. En los hogares colombianos, este análisis ayuda a identificar si las acciones sobre higiene, agua segura, manejo de residuos o autocuidado cumplieron el propósito definido, o si todavía se requieren ajustes para fortalecer el acompañamiento.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img12.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img12.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -190,7 +190,7 @@
               p.text-center.mb-0 Ayuda a comprender cómo la vivienda, el acceso al agua, la ventilación, la higiene, la disposición de residuos o la convivencia familiar influyen en los resultados. Esta revisión permite interpretar los datos de acuerdo con la realidad de cada hogar, evitando conclusiones generales que no reconozcan las diferencias entre territorios urbanos, rurales o dispersos.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img13.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img13.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -200,7 +200,7 @@
               p.text-center.mb-0 Permite reconocer si durante el seguimiento se evidencian mejoras, dificultades o situaciones que continúan igual. En el entorno hogar, este aspecto ayuda a valorar si las orientaciones brindadas se aplican en la vida cotidiana, por ejemplo, en el lavado de manos, el almacenamiento del agua o la limpieza de los espacios familiares.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img14.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img14.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -258,10 +258,10 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema5/img17.svg', alt='Figura 3. Comparación de resultados del indicador por zona territorial. La figura presenta una comparación del valor del indicador en cuatro zonas territoriales. La Zona 3 muestra el resultado más alto, cercana al 90 %; le siguen la Zona 1, con cerca del 80 %; la Zona 2, con aproximadamente el 60 %, y la Zona 4, con el valor más bajo, cercano al 55 %. Esta comparación permite identificar diferencias entre territorios y orientar acciones de mejora según las condiciones de cada zona.')
+                img(src='@/assets/curso/temas/tema5/img17.svg', alt='La figura presenta una comparación del valor del indicador en cuatro zonas territoriales. La Zona 3 muestra el resultado más alto, cercana al 90 %; le siguen la Zona 1, con cerca del 80 %; la Zona 2, con aproximadamente el 60 %, y la Zona 4, con el valor más bajo, cercano al 55 %. Esta comparación permite identificar diferencias entre territorios y orientar acciones de mejora según las condiciones de cada zona.')
         .d-block.d-lg-none
           figure
-            img(src='@/assets/curso/temas/tema5/img17_1.svg', alt='Figura 3. Comparación de resultados del indicador por zona territorial. La figura presenta una comparación del valor del indicador en cuatro zonas territoriales. La Zona 3 muestra el resultado más alto, cercana al 90 %; le siguen la Zona 1, con cerca del 80 %; la Zona 2, con aproximadamente el 60 %, y la Zona 4, con el valor más bajo, cercano al 55 %. Esta comparación permite identificar diferencias entre territorios y orientar acciones de mejora según las condiciones de cada zona.')
+            img(src='@/assets/curso/temas/tema5/img17_1.svg', alt='La figura presenta una comparación del valor del indicador en cuatro zonas territoriales. La Zona 3 muestra el resultado más alto, cercana al 90 %; le siguen la Zona 1, con cerca del 80 %; la Zona 2, con aproximadamente el 60 %, y la Zona 4, con el valor más bajo, cercano al 55 %. Esta comparación permite identificar diferencias entre territorios y orientar acciones de mejora según las condiciones de cada zona.')
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img18.png')})`}"
@@ -272,7 +272,7 @@
     .row.justify-content-center.mb-4
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img19.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img19.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -282,7 +282,7 @@
               p.text-center.mb-0 Permite relacionar los resultados con las condiciones sociales, económicas y ambientales que influyen en cada zona.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img20.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img20.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -292,7 +292,7 @@
               p.text-center.mb-0 Ayuda a ajustar las intervenciones según las necesidades reales identificadas en los hogares y comunidades.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img21.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img21.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -302,7 +302,7 @@
               p.text-center.mb-0 Facilita reconocer los territorios que requieren mayor acompañamiento, seguimiento o articulación con otros actores.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img22.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img22.svg' alt='')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
