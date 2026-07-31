@@ -280,7 +280,8 @@
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2022). <em>Resolución 1035 de 2022, por la cual se adopta el Plan Decenal de Salud Pública 2022-2031.</em>',
-      link: '',
+      link:
+        'https://www.minsalud.gov.co/plandecenal/Paginas/PDSP-2022-2031.aspx',
     },
   ],
   creditos: [

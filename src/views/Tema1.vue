@@ -313,7 +313,7 @@
             .col-lg-6.order-2.order-lg-1
               p #[b Sector salud:] instituciones prestadoras de servicios, equipos de atención primaria y programas de salud pública que orientan, complementan y dan continuidad a las intervenciones realizadas en el entorno hogar, en coherencia con los lineamientos del Ministerio de Salud y Protección Social.
               p #[b Ejemplos:] 
-              p.mb-0 - Una institución prestadora de servicios de salud orienta a la familia sobre controles preventivos y rutas de atención. Un equipo de atención primaria realiza seguimiento a familias con riesgos identificados en la vivienda. 
+              p.mb-0 - Un equipo de atención primaria realiza seguimiento a familias con riesgos identificados en la vivienda.
               p.mb-0 - Una institución prestadora de servicios de salud orienta a la familia sobre controles preventivos y rutas de atención.
             .col-lg-6.col-8.mb-4.mb-lg-0.order-1.order-lg-2
               img(src='@/assets/curso/temas/tema1/img26.png', alt='')
