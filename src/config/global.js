@@ -279,7 +279,7 @@
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2015). <em>Plan Decenal de Salud Pública 2012–2021</em>. Bogotá, Colombia: MSPS.',
+        'Ministerio de Salud y Protección Social. (2022). <em>Resolución 1035 de 2022, por la cual se adopta el Plan Decenal de Salud Pública 2022-2031.</em>',
       link: '',
     },
   ],
